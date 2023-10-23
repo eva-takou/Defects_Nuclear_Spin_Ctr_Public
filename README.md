@@ -18,5 +18,3 @@ ii) Find the gate error of a target evolution due to the presence of unwanted sp
 
 iii) Calculate one-tangles, a metric of correlations defined on the evolution operator level, and quantifies the entanglement between a single spin and the remaining register.
 
-
-About
