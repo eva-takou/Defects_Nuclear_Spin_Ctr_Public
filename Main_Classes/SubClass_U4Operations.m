@@ -3,7 +3,6 @@ classdef SubClass_U4Operations < SuperClass_Sequences
 %Created by Eva Takou
 %Last modified: Oct 23, 2023
 %--------------------------------------------------------------------------
-    
 %Note 1: This subclass does operations only on unitaries U(4). It is sort of a 
 %        characterization class for any unitary U. It borrows all the sequences from the
 %        SuperClass_Sequences and it can decompose the U operator into the
