@@ -256,7 +256,6 @@ classdef SubClass_U4Operations < SuperClass_Sequences
 
                         
             end
-            
 
             function obj = Expected_Maxima0(obj,maxNum)
                %This function is based on the fact that the time is always chosen such that n0n1~-1. 
