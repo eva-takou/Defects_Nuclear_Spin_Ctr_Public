@@ -330,7 +330,9 @@ classdef SubClass_Ent_and_Fid
       
       function obj=one_tangles_General_U_byparts(obj)
       %To calculate the one-tangles of general U, based on the partition
-      %method of the paper on multipartite entanglement.
+      %methods of Ref: T. Linowski, G. Rajchel-Mieldzioć, and K. Życzkowski,
+      %Entangling Power of Multipartite Unitary Gates, J. Phys. A
+      %53, 125303 (2020).
       
           U  = obj.Uval;
           n  = log(size(U,2))/log(2);
