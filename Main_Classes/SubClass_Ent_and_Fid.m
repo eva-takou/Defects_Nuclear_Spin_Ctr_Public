@@ -12,9 +12,7 @@ classdef SubClass_Ent_and_Fid
       maxBoundPi    %Max bound of one-tangles for CR evolutions
       one_tangles   %One-tangles for a general U (or CR-type)
       Max_Bound     %Max bound of one-tangles for general U.
-      epM_uni       %M-way entangling power (of target subspace)
-      epM_nonuni    %M-way entangling power (of target subspace)
-      epM_dephased  %M-way entangling power (of target subspace)
+      
   end
   
     properties (Constant, Hidden)
